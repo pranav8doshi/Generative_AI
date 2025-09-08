@@ -1,0 +1,4 @@
+ipynb - IPythonNotebook
+Esc + A for code cell above
+Esc + B for code cell below
+Shift + enter execute cell

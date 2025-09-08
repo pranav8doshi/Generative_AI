@@ -1,0 +1,10 @@
+python3.12 -m venv venv
+.\venv\Scripts\activate
+deactivate
+
+pip install virtualenv
+virtualenv -p python3 virtualenv
+.\virtualenv\Scripts\activate
+deactivate
+
+conda create -p venv1 python3==3.10 -y
